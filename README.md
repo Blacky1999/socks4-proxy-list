@@ -4,7 +4,7 @@ A comprehensive collection of **500+ working SOCKS4 proxy servers** in plain tex
 
 ## 📊 Statistics
 
-- **Total Proxies**: 500
+- **Total Proxies**: 317
 - **Format**: Plain text (IP:PORT)
 - **Protocol**: SOCKS4
 - **Sources**: 22 different proxy providers
