@@ -1,6 +1,6 @@
 # SOCKS4 Proxy List 🔒
 
-A comprehensive collection of **500+ working SOCKS4 proxy servers** in plain text format for easy integration into your applications and tools.
+A comprehensive collection of **300+ working SOCKS4 proxy servers** in plain text format for easy integration into your applications and tools.
 
 ## 📊 Statistics
 
